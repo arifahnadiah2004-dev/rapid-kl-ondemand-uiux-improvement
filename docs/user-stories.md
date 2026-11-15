@@ -1,40 +1,36 @@
+
 # User Stories
 
-## User Story 1: Clear Map and Location Selection
+## User Story 1: AI-Based Nearby Pickup Recommendations
 
-Requirement: FR1, FR2
+**Requirement:** FR1, FR2, FR5
 
-As a Rapid KL On-Demand user, I want to view nearby pickup and drop-off locations on a clear map, so that I can easily identify and select suitable locations.
+As a passenger, I want the system to recommend convenient pickup locations within my selected zone, so that I can choose a suitable pickup point more easily.
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 
-1. The system shall display nearby pickup and drop-off locations clearly on the map.
-2. The system shall prioritise locations near the user's current location.
-3. The system shall allow users to select their preferred pickup and drop-off locations.
-4. The system shall highlight the selected locations on the map.
+1. The system shall suggest pickup locations based on the passenger's current location.
+2. The system shall only recommend locations within the selected service zone.
+3. The system shall allow passengers to select one of the recommended pickup locations.
 
-## User Story 2: Actual Road Route Visualisation
+## User Story 2: Actual Road Route Display
 
-Requirement: FR3
+**Requirement:** FR3
 
-As a Rapid KL On-Demand user, I want to view the actual road route between my pickup and drop-off locations, so that I can better understand my journey.
+As a passenger, I want to view the actual road route between my pickup and drop-off points, so that I can understand the direction and route of my journey.
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 
-1. The system shall display the actual road route connecting the selected pickup and drop-off locations.
-2. The system shall clearly indicate the starting point and destination on the map.
-3. The system shall update the displayed route when users change their pickup or drop-off locations.
+1. The system shall display a route that follows the available road network.
+2. The system shall update the route preview when the passenger selects different pickup or drop-off points.
 
-## User Story 3: Estimated Arrival Time (ETA)
+## User Story 3: Easy Booking Interface
 
-Requirement: FR4
+**Requirement:** FR4, FR6
 
-As a Rapid KL On-Demand user, I want to receive more accurate estimated arrival times (ETA), so that I can plan my journey and manage my time effectively.
+As a passenger, I want a clean and well-organised booking interface, so that I can navigate the booking process easily without confusion.
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 
-1. The system shall display the estimated journey duration and arrival time after users select their pickup and drop-off locations.
-
-2. The system shall update the estimated arrival time when new journey or traffic information becomes available.
-
-3. The system shall display the ETA in a clear and understandable format.
+1. The system shall display pickup and drop-off information in clearly labelled sections.
+2. The system shall allow passengers to review their booking details before confirmation.
