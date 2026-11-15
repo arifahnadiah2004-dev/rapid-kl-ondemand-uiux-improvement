@@ -4,7 +4,7 @@ An improvement project that addresses usability issues in the Rapid KL On-Demand
 
 ## Problem statement
 
-Rapid KL On-Demand users experience difficulties when using the application due to cluttered map displays, confusing pickup and drop-off location selections, unclear route visualisation, and inaccurate estimated arrival times (ETA). These issues make it challenging for users to navigate the application and understand their journey details. As a result, users may experience confusion, inconvenience, and difficulties planning their journeys. Therefore, improvements to the application's UI/UX are needed to provide a clearer, simpler, and more user-friendly booking experience.
+Passengers using the Rapid KL On-Demand application may face several usability challenges when booking and tracking their van journeys. The booking map displays excessive and irrelevant location labels, making it difficult to identify suitable pickup and drop-off points. Furthermore, the route preview uses straight-line directions instead of actual road networks, reducing passengers' understanding of their journey. The booking interface also lacks clear organisation and convenient location selection, while estimated arrival times may not accurately reflect the van's actual arrival. These issues can lead to confusion, longer waiting times and a less satisfactory user experience. Therefore, improvements are needed to provide clearer map visualisation, AI-based pickup recommendations, accurate road route displays and a simpler, more user-friendly booking interface.
 
 ## Documents
 
@@ -34,7 +34,7 @@ Rapid KL On-Demand users experience difficulties when using the application due 
 - [x] Problem statement written
 - [x] Requirements numbered and linked to user stories
 - [x] User stories have acceptance criteria
-- [ ] Specialised technology chosen and explained
+- [x] Specialised technology chosen and explained
 - [ ] First prototype (later in the semester)
 
 ## Status
